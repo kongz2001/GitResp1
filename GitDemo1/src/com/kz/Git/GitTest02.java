@@ -8,4 +8,5 @@ public class GitTest02 {
     private String gender;
     private int id;
 	private double weight;
+	private double height;
 }
