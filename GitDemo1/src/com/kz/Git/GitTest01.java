@@ -9,4 +9,5 @@ import org.omg.CosNaming.NamingContextExtPackage.StringNameHelper;
 public class GitTest01 {
     private int age;
     private String name;
+	int a = 1;
 }
